@@ -69,7 +69,7 @@ def get_word():
                  "concerned", "wild", "lumber", "rock", "unbiased", "groan",
                  "delirious", "meat", "hydrant", "exist", "listen", "scrawny",
                  "obscene", "crush", "escape", "suck", "pull", "trip",
-                 "continue", "nappy", "high-pitched", "dull", "pinch",
+                 "continue", "nappy", "dull", "pinch",
                  "certain", "petite", "lettuce", "honey", "debonair",
                  "trade", "tame", "stiff", "size", "messy", "road",
                  "harsh", "reign", "match", "pray", "soda", "stir", "edge"
